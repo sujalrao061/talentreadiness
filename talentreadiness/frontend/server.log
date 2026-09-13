@@ -1,0 +1,132 @@
+
+  VITE v8.3.0  ready in 577 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.247:5173/  Wi-Fi
+  ➜  press h + enter to show help
+7:40:50 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+7:40:50 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+7:40:50 PM [vite] (client) page reload src/main.tsx
+7:41:57 PM [vite] (client) hmr update /src/style.css
+7:44:16 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+7:44:16 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+7:44:16 PM [vite] (client) page reload src/main.tsx
+7:44:33 PM [vite] (client) hmr update /src/style.css
+7:48:22 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+7:48:22 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+7:48:22 PM [vite] (client) page reload src/main.tsx
+7:48:35 PM [vite] (client) hmr update /src/style.css
+7:51:48 PM [vite] (client) hmr update /src/style.css
+8:10:55 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:12:12 PM [vite] (client) page reload src/main.tsx
+8:13:19 PM [vite] (client) page reload src/main.tsx
+8:13:36 PM [vite] (client) hmr update /src/style.css
+8:14:29 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:14:29 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+8:14:29 PM [vite] (client) page reload src/main.tsx
+8:19:55 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:20:35 PM [vite] (client) hmr update /src/style.css
+8:24:35 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:24:35 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+8:24:35 PM [vite] (client) page reload src/main.tsx
+8:24:52 PM [vite] (client) hmr update /src/style.css
+8:31:29 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:31:29 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+8:31:29 PM [vite] (client) page reload src/main.tsx
+8:36:33 PM [vite] (client) hmr update /src/style.css
+8:39:45 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:39:45 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+8:39:45 PM [vite] (client) page reload src/main.tsx
+8:41:08 PM [vite] (client) hmr update /src/style.css
+8:43:24 PM [vite] (client) hmr update /src/style.css
+8:46:10 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:46:10 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+8:46:10 PM [vite] (client) page reload src/main.tsx
+8:50:13 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:50:13 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+8:50:13 PM [vite] (client) page reload src/main.tsx
+8:50:46 PM [vite] (client) hmr update /src/style.css
+8:52:57 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+8:52:57 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+8:52:57 PM [vite] (client) page reload src/main.tsx
+8:53:27 PM [vite] (client) hmr update /src/style.css
+8:54:46 PM [vite] (client) hmr update /src/style.css
+8:55:50 PM [vite] (client) hmr update /src/style.css
+8:57:08 PM [vite] (client) hmr update /src/style.css
+9:04:24 PM [vite] (client) hmr update /src/style.css
+9:06:31 PM [vite] (client) hmr update /src/style.css
+9:07:52 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+9:07:52 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+9:07:52 PM [vite] (client) page reload src/main.tsx
+9:08:53 PM [vite] (client) hmr update /src/style.css
+9:13:08 PM [vite] (client) hmr update /src/style.css
+9:13:45 PM [vite] (client) hmr update /src/style.css
+9:14:19 PM [vite] (client) hmr update /src/style.css
+9:15:01 PM [vite] (client) hmr update /src/style.css
+9:15:50 PM [vite] (client) hmr update /src/style.css
+9:16:37 PM [vite] (client) hmr update /src/style.css
+9:17:19 PM [vite] (client) hmr update /src/style.css
+9:18:05 PM [vite] (client) hmr update /src/style.css
+10:18:32 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+10:18:32 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+10:18:32 PM [vite] (client) page reload src/main.tsx
+10:18:53 PM [vite] (client) hmr update /src/style.css
+10:21:57 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+10:21:57 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+10:21:57 PM [vite] (client) page reload src/main.tsx
+10:22:27 PM [vite] (client) hmr update /src/style.css
+10:32:42 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+10:32:43 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+10:32:43 PM [vite] (client) page reload src/main.tsx
+10:32:57 PM [vite] (client) hmr update /src/style.css
+10:35:44 PM [vite] (client) hmr update /src/style.css
+11:01:07 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:01:07 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:01:07 PM [vite] (client) page reload src/main.tsx
+11:01:32 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:01:32 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:01:32 PM [vite] (client) page reload src/main.tsx
+11:02:01 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:02:01 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:02:01 PM [vite] (client) page reload src/main.tsx
+11:06:43 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:06:43 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:06:43 PM [vite] (client) page reload src/main.tsx
+11:07:25 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:07:25 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:07:25 PM [vite] (client) page reload src/main.tsx
+11:11:17 PM [vite] (client) hmr update /src/style.css
+11:11:31 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:29:24 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:29:39 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:29:39 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:29:39 PM [vite] (client) page reload src/main.tsx
+11:30:11 PM [vite] (client) hmr update /src/main.tsx, /src/style.css
+11:30:11 PM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:30:11 PM [vite] (client) page reload src/main.tsx
+11:33:48 PM [vite] (client) hmr update /src/style.css
+11:37:03 PM [vite] (client) hmr update /src/style.css
+11:39:11 PM [vite] (client) hmr update /src/style.css
+11:39:57 PM [vite] (client) hmr update /src/style.css
+11:40:42 PM [vite] (client) hmr update /src/style.css
+11:42:28 PM [vite] (client) page reload index.html
+11:45:40 PM [vite] (client) hmr update /src/style.css
+11:46:15 PM [vite] (client) hmr update /src/style.css
+11:46:43 PM [vite] (client) hmr update /src/style.css
+11:47:54 PM [vite] (client) hmr update /src/style.css
+11:51:13 PM [vite] (client) hmr update /src/style.css
+11:52:16 PM [vite] (client) hmr update /src/style.css
+11:53:03 PM [vite] (client) hmr update /src/style.css
+11:54:43 PM [vite] (client) hmr update /src/style.css
+11:55:45 PM [vite] (client) hmr update /src/style.css
+11:58:36 PM [vite] (client) hmr update /src/style.css
+11:59:56 PM [vite] (client) hmr update /src/style.css
+12:04:00 AM [vite] (client) hmr update /src/main.tsx, /src/style.css
+12:04:00 AM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+12:04:00 AM [vite] (client) page reload src/main.tsx
+12:04:15 AM [vite] (client) page reload index.html
+12:04:59 AM [vite] (client) hmr update /src/main.tsx, /src/style.css
+12:04:59 AM [vite] (client) hmr invalidate /src/main.tsx Could not Fast Refresh ("true" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+12:04:59 AM [vite] (client) page reload src/main.tsx
+12:06:14 AM [vite] (client) page reload index.html
+[ELIFECYCLE] Command failed with exit code 4294967295.

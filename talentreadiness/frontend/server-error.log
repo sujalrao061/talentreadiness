@@ -1,0 +1,317 @@
+$ vite --host 0.0.0.0 "--" "--host" "127.0.0.1" "--port" "5173"
+7:40:50 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+7:40:50 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+7:44:16 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+7:44:16 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+7:48:22 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:10:55 PM [vite] (client) [console.error] [vite] Failed to reload /src/main.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+8:13:20 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:13:50 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:14:29 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:14:29 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+8:14:29 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:14:38 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:18:34 PM [vite] (client) [Unhandled rejection] Error: Invalid or expired token
+ > api src/main.tsx:2:542
+    1  |  import React,{useEffect,useState}from'react';import{createRoot}from'react-dom/client';import{BrowserRouter,Routes,Rou...
+    2  |  ...',...(t?{Authorization:`Bearer ${t}`}:{})}});if(!r.ok)throw new Error((await r.json().catch(()=>({detail:'Request ...
+       |                                                                 ^
+    3  |  function Loading(){return <div className="loading">Loading workspace…</div>}function Notice({children}:{children:Reac...
+    4  |  function Landing(){return <><header className="public-nav"><b><span>Talent</span>Readiness</b><div><Link to="/login">...
+
+8:19:28 PM [vite] (client) [Unhandled rejection] Error: Invalid or expired token
+ > api src/main.tsx:2:542
+    1  |  import React,{useEffect,useState}from'react';import{createRoot}from'react-dom/client';import{BrowserRouter,Routes,Rou...
+    2  |  ...',...(t?{Authorization:`Bearer ${t}`}:{})}});if(!r.ok)throw new Error((await r.json().catch(()=>({detail:'Request ...
+       |                                                                 ^
+    3  |  function Loading(){return <div className="loading">Loading workspace…</div>}function Notice({children}:{children:Reac...
+    4  |  function Landing(){return <><header className="public-nav"><b><span>Talent</span>Readiness</b><div><Link to="/login">...
+
+8:20:45 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:20:45 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:21:06 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:21:07 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:23:20 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:24:35 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:24:35 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+8:24:35 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:30:46 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:31:01 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:31:02 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:31:29 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:31:29 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+8:31:29 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:33:16 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:36:13 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:36:43 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:38:24 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:39:45 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:41:51 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:43:37 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:46:10 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:46:10 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+8:46:10 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:46:58 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:50:13 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:50:13 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+8:50:13 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:50:57 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:51:41 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:52:57 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+8:54:13 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:54:56 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:55:19 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+8:55:21 PM [vite] (client) [console.error] Each child in a list should have a unique "key" prop.
+
+Check the render method of `section`. It was passed a child from ManagerDashboard. See https://react.dev/link/warning-keys for more information.
+9:00:30 PM [vite] (client) [Unhandled rejection] Error: Not authenticated
+ > api src/main.tsx:2:623
+    1  |  import React,{useEffect,useState}from'react';import{createRoot}from'react-dom/client';import{BrowserRouter,Routes,Rou...
+    2  |  ...',...(t?{Authorization:`Bearer ${t}`}:{})}});if(!r.ok)throw new Error((await r.json().catch(()=>({detail:'Request ...
+       |                                                                 ^
+    3  |  function Loading(){return <div className="loading"><div className="skeleton-title"/><div className="skeleton-grid"><i...
+    4  |  function Landing(){return <><header className="public-nav"><b><span>Talent</span>Readiness</b><div><Link to="/login">...
+
+9:00:36 PM [vite] (client) [Unhandled rejection] Error: Not authenticated
+ > api src/main.tsx:2:623
+    1  |  import React,{useEffect,useState}from'react';import{createRoot}from'react-dom/client';import{BrowserRouter,Routes,Rou...
+    2  |  ...',...(t?{Authorization:`Bearer ${t}`}:{})}});if(!r.ok)throw new Error((await r.json().catch(()=>({detail:'Request ...
+       |                                                                 ^
+    3  |  function Loading(){return <div className="loading"><div className="skeleton-title"/><div className="skeleton-grid"><i...
+    4  |  function Landing(){return <><header className="public-nav"><b><span>Talent</span>Readiness</b><div><Link to="/login">...
+
+9:02:36 PM [vite] (client) [Unhandled rejection] Error: Not authenticated
+ > api src/main.tsx:2:623
+    1  |  import React,{useEffect,useState}from'react';import{createRoot}from'react-dom/client';import{BrowserRouter,Routes,Rou...
+    2  |  ...',...(t?{Authorization:`Bearer ${t}`}:{})}});if(!r.ok)throw new Error((await r.json().catch(()=>({detail:'Request ...
+       |                                                                 ^
+    3  |  function Loading(){return <div className="loading"><div className="skeleton-title"/><div className="skeleton-grid"><i...
+    4  |  function Landing(){return <><header className="public-nav"><b><span>Talent</span>Readiness</b><div><Link to="/login">...
+
+9:02:36 PM [vite] (client) [Unhandled rejection] Error: Not authenticated
+ > api src/main.tsx:2:623
+    1  |  import React,{useEffect,useState}from'react';import{createRoot}from'react-dom/client';import{BrowserRouter,Routes,Rou...
+    2  |  ...',...(t?{Authorization:`Bearer ${t}`}:{})}});if(!r.ok)throw new Error((await r.json().catch(()=>({detail:'Request ...
+       |                                                                 ^
+    3  |  function Loading(){return <div className="loading"><div className="skeleton-title"/><div className="skeleton-grid"><i...
+    4  |  function Landing(){return <><header className="public-nav"><b><span>Talent</span>Readiness</b><div><Link to="/login">...
+
+9:02:36 PM [vite] (client) [Unhandled rejection] Error: Not authenticated
+ > api src/main.tsx:2:623
+    1  |  import React,{useEffect,useState}from'react';import{createRoot}from'react-dom/client';import{BrowserRouter,Routes,Rou...
+    2  |  ...',...(t?{Authorization:`Bearer ${t}`}:{})}});if(!r.ok)throw new Error((await r.json().catch(()=>({detail:'Request ...
+       |                                                                 ^
+    3  |  function Loading(){return <div className="loading"><div className="skeleton-title"/><div className="skeleton-grid"><i...
+    4  |  function Landing(){return <><header className="public-nav"><b><span>Talent</span>Readiness</b><div><Link to="/login">...
+
+9:07:52 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+10:18:32 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+10:18:32 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+10:21:57 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+10:21:57 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+10:32:43 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+10:32:43 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+11:01:07 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+11:01:07 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+11:01:32 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+11:01:32 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+11:02:01 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+11:02:01 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+11:06:43 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+11:07:25 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+11:11:31 PM [vite] Internal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mAdjacent JSX elements must be wrapped in an enclosing tag.
+ -  in src/main.tsx at 31104..31105
+ [38;5;240m │[0m 
+ [38;5;240m │[0m [38;5;115mHelp[0m: Did you want a JSX fragment `<>...</>`?
+
+  Plugin: vite:oxc
+  File: C:/Hackthon/talentreadiness/frontend/src/main.tsx
+      at transformWithOxc (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7208:19)
+      at TransformPluginContext.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7280:26)
+      at EnvironmentPluginContainer.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:8172:51)
+      at async loadAndTransform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19634:26)
+      at async viteTransformMiddleware (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19853:20)
+11:11:31 PM [vite] (client) [console.error] [vite] Failed to reload /src/main.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+11:13:36 PM [vite] (client) Pre-transform error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mAdjacent JSX elements must be wrapped in an enclosing tag.
+ -  in src/main.tsx at 31104..31105
+ [38;5;240m │[0m 
+ [38;5;240m │[0m [38;5;115mHelp[0m: Did you want a JSX fragment `<>...</>`?
+
+  Plugin: vite:oxc
+  File: C:/Hackthon/talentreadiness/frontend/src/main.tsx
+11:13:36 PM [vite] Internal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mAdjacent JSX elements must be wrapped in an enclosing tag.
+ -  in src/main.tsx at 31104..31105
+ [38;5;240m │[0m 
+ [38;5;240m │[0m [38;5;115mHelp[0m: Did you want a JSX fragment `<>...</>`?
+
+  Plugin: vite:oxc
+  File: C:/Hackthon/talentreadiness/frontend/src/main.tsx
+      at transformWithOxc (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7208:19)
+      at TransformPluginContext.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7280:26)
+      at EnvironmentPluginContainer.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:8172:51)
+      at async loadAndTransform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19634:26)
+      at async viteTransformMiddleware (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19853:20)
+11:25:49 PM [vite] (client) Pre-transform error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mAdjacent JSX elements must be wrapped in an enclosing tag.
+ -  in src/main.tsx at 31104..31105
+ [38;5;240m │[0m 
+ [38;5;240m │[0m [38;5;115mHelp[0m: Did you want a JSX fragment `<>...</>`?
+
+  Plugin: vite:oxc
+  File: C:/Hackthon/talentreadiness/frontend/src/main.tsx
+11:25:50 PM [vite] Internal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mAdjacent JSX elements must be wrapped in an enclosing tag.
+ -  in src/main.tsx at 31104..31105
+ [38;5;240m │[0m 
+ [38;5;240m │[0m [38;5;115mHelp[0m: Did you want a JSX fragment `<>...</>`?
+
+  Plugin: vite:oxc
+  File: C:/Hackthon/talentreadiness/frontend/src/main.tsx
+      at transformWithOxc (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7208:19)
+      at TransformPluginContext.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7280:26)
+      at EnvironmentPluginContainer.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:8172:51)
+      at async loadAndTransform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19634:26)
+      at async viteTransformMiddleware (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19853:20)
+11:28:52 PM [vite] (client) Pre-transform error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mAdjacent JSX elements must be wrapped in an enclosing tag.
+ -  in src/main.tsx at 31104..31105
+ [38;5;240m │[0m 
+ [38;5;240m │[0m [38;5;115mHelp[0m: Did you want a JSX fragment `<>...</>`?
+
+  Plugin: vite:oxc
+  File: C:/Hackthon/talentreadiness/frontend/src/main.tsx
+11:28:52 PM [vite] Internal server error: Transform failed with 1 error:
+
+[31m[PARSE_ERROR] [0mAdjacent JSX elements must be wrapped in an enclosing tag.
+ -  in src/main.tsx at 31104..31105
+ [38;5;240m │[0m 
+ [38;5;240m │[0m [38;5;115mHelp[0m: Did you want a JSX fragment `<>...</>`?
+
+  Plugin: vite:oxc
+  File: C:/Hackthon/talentreadiness/frontend/src/main.tsx
+      at transformWithOxc (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7208:19)
+      at TransformPluginContext.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:7280:26)
+      at EnvironmentPluginContainer.transform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:8172:51)
+      at async loadAndTransform (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19634:26)
+      at async viteTransformMiddleware (file:///C:/Hackthon/talentreadiness/frontend/node_modules/.pnpm/vite@8.3.0_jiti@2.7.0/node_modules/vite/dist/node/chunks/node.js:19853:20)
+11:29:39 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+11:30:11 PM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+11:30:11 PM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+11:42:28 PM [vite] (client) Pre-transform error: Failed to load url /src/skill-level-labels.ts (resolved id: /src/skill-level-labels.ts). Does the file exist?
+12:04:00 AM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+12:04:00 AM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+12:04:59 AM [vite] (client) [console.error] You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.
+12:04:59 AM [vite] (client) [console.warn] The width(0) and height(0) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
