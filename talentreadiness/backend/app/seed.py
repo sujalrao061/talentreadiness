@@ -8,7 +8,13 @@ PROJECTS=[("Fraud Detection Platform","Real-time ML fraud detection for payments
 def seed(db):
     if db.query(User).first():
         if not db.query(User).filter_by(email="admin@talentreadiness.demo").first(): db.add(User(name="System Admin",email="admin@talentreadiness.demo",password_hash=hash_password("demo123"),role="admin",job_title="Platform Administrator",department="Operations"))
+        
         if not db.query(CoveragePolicy).first(): db.add(CoveragePolicy(coverage_assignment_mode="Consent Required",default_incentive_multiplier=1.5))
+        for name,title,dept,email in [("Arjun Patel","ML Engineer","Machine Learning","arjunpatel@talentreadiness.demo"),("Nina Brooks","Data Engineer","Data Engineering","ninabrooks@talentreadiness.demo"),("Lucas Green","Software Engineer","Software Engineering","lucasgreen@talentreadiness.demo")]:
+            if not db.query(User).filter_by(email=email).first():
+                employee=User(name=name,email=email,password_hash=hash_password("demo123"),role="employee",job_title=title,department=dept)
+                db.add(employee); db.flush()
+                db.add(Availability(employee_id=employee.id,date=date.today(),status="Available",available_hours=8))
         db.commit(); return
     manager=User(name="Sujal Rao",email="manager@talentreadiness.demo",password_hash=hash_password("demo123"),role="manager",job_title="Engineering Manager",department="AI Engineering"); db.add(manager); db.flush()
     db.add(User(name="System Admin",email="admin@talentreadiness.demo",password_hash=hash_password("demo123"),role="admin",job_title="Platform Administrator",department="Operations"))
